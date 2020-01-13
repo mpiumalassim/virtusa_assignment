@@ -1,0 +1,10 @@
+Compile...
+javac -d a ./b/Course.java -d a ./c/Student.java ./a/Application.java
+Execute...
+java -cp a; Application
+
+-d
+put all class files to same directory
+
+-cp
+give classpath for execute
